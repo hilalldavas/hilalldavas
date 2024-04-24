@@ -8,9 +8,21 @@
 
 - 👯 I’m finished **Flappy Bird Game**
 
-- 🌱 I’m currently learning **JavaScript & Asp.Net**
+- 🤩 I’m finished **Arduino-RoboticArm**
 
-- 🤝I’m currently working on **Leverage Software Web-Site**
+- 😊 I’m finished **Arduino-RoboticArm**
+
+- 🌾 I’m finished **çölAyak**
+
+- 🌱 I’m currently learning **React-Native &React  & JavaScript & Asp.Net**
+
+- 👌 I'm worked at **Leverage Software Web-Site**
+
+- 🦅 I’m working on **AtlasRota**
+
+- 🤝 I’m working on **AtlasRota-WebSite**
+
+- 🧘‍♀️ I’m working on **YogaEvim**
 
 - 📫 How to reach me **hilalldavas@gmail.com**
 
