@@ -10,9 +10,7 @@
 
 - 🤩 I’m finished **Arduino-RoboticArm**
 
-- 😊 I’m finished **Arduino-RoboticArm**
-
-- 🌾 I’m finished **çölAyak**
+- 🌾 I’m finished **çölAyak-WebSite**
 
 - 🌱 I’m currently learning **React-Native &React  & JavaScript & Asp.Net**
 
