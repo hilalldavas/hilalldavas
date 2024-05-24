@@ -18,7 +18,7 @@
 
 - 🦅 I’m working on **ThreatThreaker**
 
-- 🤝 I’m working on **ThreatThreaker-WebSite**
+- 🤝 I’m working on **TechTales-WebSite**
 
 - 🧘‍♀️ I’m working on **DynaNova**
 
