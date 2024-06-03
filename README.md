@@ -10,8 +10,6 @@
 
 - 🤩 I’m finished **Arduino-RoboticArm**
 
-- 🌾 I’m finished **çölAyak-WebSite**
-
 - 🌱 I’m currently learning **React-Native &React  & JavaScript & Asp.Net**
 
 - 👌 I'm worked at **Leverage Software Web-Site**
