@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalldavas&label=Profile%20views&color=0e75b6&style=flat" alt="hilalldavas" /> </p>
 
-- 🔭 I’m currently working on. **HopeLine - A mobile app for cancer patient monitoring and symptom tracking**
+- 👨‍💻 I’m currently working on. **HopeLine - A mobile app for cancer patient monitoring and symptom tracking**
+
+- 📄 I’m finished **MoodMate - Emotion-driven content recommender**
+
+- 📝 I’m finished **FractAI - Deep learning-based bone fracture detection from radiology images**
 
 - 📫 How to reach me **hilalldavas@gmail.com**
 
