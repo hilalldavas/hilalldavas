@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hilal DAVAS</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Hi, I'm Hilal" width="500"/>
+</p>
+
 <h3 align="center">
 <em>Software Engineer passionate about mobile and web development — designing technologies that understand people, enhance emotional well-being, and make everyday life better through thoughtful and impactful digital experiences.</em>
 </h3>
@@ -10,13 +13,18 @@
 ---
 
 ### 👩‍💻 About Me
-- 🚀 I’m currently working on **Bingo – A Swift-based iOS social media app using Firebase Authentication**  
-- 💊 Previously developed **HopeLine – A mobile app for cancer patient monitoring and symptom tracking**  
-- 😊 Built **MoodMate – Emotion-driven multimedia content recommender**  
-- 🦴 Created **FractAI – Deep learning-based bone fracture detection system**  
-- 📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**  
+Hi, I'm Hilal! 🚀  
+Software engineer with a passion for mobile and web development.  
+I love building **technology that improves daily life, supports emotional well-being, and connects people**.  
 
-> 💡 *I love building solutions that combine technology with emotional intelligence.*
+> 💡 Always exploring, learning, and creating meaningful digital experiences.
+
+- Currently working on **Bingo** – A Swift-based iOS social media app with Firebase Authentication  
+- Previously developed **HopeLine** – A mobile app for cancer patient monitoring and symptom tracking  
+- Built **MoodMate** – Emotion-driven multimedia content recommender  
+- Created **FractAI** – Deep learning-based bone fracture detection system  
+
+📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**
 
 ---
 
@@ -75,3 +83,9 @@
 - 💡 Passionate about emotional well-being and human-centered design  
 
 > ✨ *Always exploring, building, and learning…*
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/4FvqLnk/falling-stars-transparent.gif" alt="Falling background animation" width="600"/>
+</p>
