@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilal DAVAS</h1>
 <h3 align="center">
-Software Engineer passionate about mobile and web development — designing technologies that understand people, enhance emotional well-being, and make everyday life better through thoughtful and impactful digital experiences.
+<em>Software Engineer passionate about mobile and web development — designing technologies that understand people, enhance emotional well-being, and make everyday life better through thoughtful and impactful digital experiences.</em>
 </h3>
 
 <p align="center">
@@ -11,11 +11,12 @@ Software Engineer passionate about mobile and web development — designing tech
 
 ### 👩‍💻 About Me
 - 🚀 I’m currently working on **Bingo – A Swift-based iOS social media app using Firebase Authentication**  
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150"/>
-- 💊 Previously developed **HopeLine – A mobile app for cancer patient monitoring and symptom tracking**
-- 😊 Built **MoodMate – Emotion-driven multimedia content recommender**
-- 🦴 Created **FractAI – Deep learning-based bone fracture detection system**
-- 📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**
+- 💊 Previously developed **HopeLine – A mobile app for cancer patient monitoring and symptom tracking**  
+- 😊 Built **MoodMate – Emotion-driven multimedia content recommender**  
+- 🦴 Created **FractAI – Deep learning-based bone fracture detection system**  
+- 📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**  
+
+> 💡 *I love building solutions that combine technology with emotional intelligence.*
 
 ---
 
@@ -27,19 +28,15 @@ Software Engineer passionate about mobile and web development — designing tech
 | **MoodMate** | Emotion-driven multimedia content recommender | React, Python, AI |
 | **FractAI** | Deep learning-based bone fracture detection system | Python, TensorFlow, OpenCV |
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="250"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/hilaldavas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+  <a href="https://linkedin.com/in/hilaldavas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40"/>
   </a>
-  <a href="https://instagram.com/hilalldavas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" />
+  <a href="https://instagram.com/hilalldavas" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40"/>
   </a>
 </p>
 
@@ -72,11 +69,9 @@ Software Engineer passionate about mobile and web development — designing tech
 ---
 
 ### 🌟 Interests & Learning
-- 📚 Currently learning: AI & ML, Advanced SwiftUI & Combine, Next.js
-- 🎵 Music: Jazz & Lo-fi
-- 🏃‍♀️ Running & Fitness
-- 💡 Passionate about emotional well-being and human-centered design
+- 📚 Currently learning: AI & ML, Advanced SwiftUI & Combine, Next.js  
+- 🎵 Music: Jazz & Lo-fi  
+- 🏃‍♀️ Running & Fitness  
+- 💡 Passionate about emotional well-being and human-centered design  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsXnOGN9jFiK7Qc/giphy.gif" width="200"/>
-</p>
+> ✨ *Always exploring, building, and learning…*
