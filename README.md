@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hi, I'm Hilal" width="500"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Hi, I'm Hilal" width="500"/>
 </p>
 
 <h3 align="center">
@@ -78,7 +78,6 @@ I love building **technology that improves daily life, supports emotional well-b
 
 ### 🌟 Interests & Learning
 - 📚 Currently learning: AI & ML, Advanced SwiftUI & Combine, Next.js  
-- 🏃‍♀️ Running & Fitness  
 - 💡 Passionate about emotional well-being and human-centered design  
 
 > ✨ *Always exploring, building, and learning…*
