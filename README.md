@@ -67,7 +67,7 @@ I love building **technology that improves daily life, supports emotional well-b
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilalldavas&show_icons=true&theme=radical" alt="hilalldavas GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalldavas&theme=radical" alt="hilalldavas" />
 </p>
 
 <!-- Most Used Languages -->
