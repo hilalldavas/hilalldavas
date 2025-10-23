@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Hi, I'm Hilal" width="500"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi👋-I'm%20Hilal-blue?style=for-the-badge&logo=appveyor&animation=glow" alt="Hi I'm Hilal"/>
+</p>
 </p>
 
 <h3 align="center">
