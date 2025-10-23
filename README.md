@@ -1,7 +1,5 @@
 <p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi👋-I'm%20Hilal-blue?style=for-the-badge&logo=appveyor&animation=glow" alt="Hi I'm Hilal"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+👋;I'm+Hilal+DAVAS" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">
