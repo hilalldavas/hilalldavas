@@ -1,6 +1,6 @@
-<!-- Animated header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=36&duration=2500&pause=800&color=3F72AF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Hilal+Davas;Software+Engineer;Creative+Thinker+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+<!-- Elegant animated header -->
+<p align="center" style="margin-top: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=38&duration=3000&pause=1000&color=3F72AF&center=true&vCenter=true&width=700&lines=Hi!+I'm+Hilal+Davas" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
@@ -43,15 +43,6 @@ Hi, I'm Hilal! I’m passionate about designing and developing technology that c
 
 ---
 
-### 🚀 Featured Projects  
-| Project | Description | Stack |
-|----------|--------------|--------|
-| **Bingo** | iOS social media app powered by Firebase Authentication | Swift, Firebase |
-| **HopeLine** | Cancer patient symptom tracker & monitor | React Native, Node.js, MongoDB |
-| **MoodMate** | Emotion-driven multimedia content recommender | React, Python, AI |
-
----
-
 ### 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hilalldavas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
@@ -64,7 +55,6 @@ Hi, I'm Hilal! I’m passionate about designing and developing technology that c
 ---
 
 ### 🌱 Currently Exploring  
-- 🧠 Machine Learning & AI Integration  
 - 🍏 Advanced SwiftUI Animations  
 - ☁️ Cloud backend with Firebase & Node.js  
 - 🎨 Human-centered design systems  
