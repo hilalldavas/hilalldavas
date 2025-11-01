@@ -1,84 +1,75 @@
+<!-- Typing header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e75b6&center=true&lines=Hi+👋,+I'm+Hilal+DAVAS" alt="Typing SVG" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&duration=2500&pause=700&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Hilal+Davas;Software+Engineer;Building+meaningful+digital+experiences" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
-<em>Software Engineer passionate about mobile and web development — designing technologies that understand people, enhance emotional well-being, and make everyday life better through thoughtful and impactful digital experiences.</em>
+<em>Software Engineer passionate about crafting human-centered, intuitive, and emotionally intelligent digital products.</em>
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilalldavas&label=Profile%20Views&color=0e75b6&style=flat" alt="hilalldavas" />
+  <img src="https://komarev.com/ghpvc/?username=hilalldavas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-Hi, I'm Hilal! 🚀  
-Software engineer with a passion for mobile and web development.  
-I love building **technology that improves daily life, supports emotional well-being, and connects people**.  
+### 👩‍💻 About Me  
+Hi, I'm Hilal! I’m passionate about designing and developing technology that connects people, simplifies life, and brings a touch of empathy into the digital world.  
 
-> 💡 Always exploring, learning, and creating meaningful digital experiences.
+- 🚀 Currently developing **Bingo** — A Swift-based iOS social media app using Firebase Authentication  
+- 💊 Created **HopeLine** — A mobile app for cancer patient monitoring and symptom tracking  
+- 😊 Built **MoodMate** — Emotion-driven multimedia content recommender  
 
-- Currently working on **Bingo** – A Swift-based iOS social media app with Firebase Authentication  
-- Previously developed **HopeLine** – A mobile app for cancer patient monitoring and symptom tracking  
-- Built **MoodMate** – Emotion-driven multimedia content recommender  
-- Created **FractAI** – Deep learning-based bone fracture detection system  
-
-📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**
+📫 You can reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**  
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Bingo** | iOS social media app with Firebase Authentication | Swift, Firebase |
-| **HopeLine** | Mobile app for cancer patient symptom tracking | React Native, Node.js, MongoDB |
-| **MoodMate** | Emotion-driven multimedia content recommender | React, Python, AI |
-| **FractAI** | Deep learning-based bone fracture detection system | Python, TensorFlow, OpenCV |
-
----
-
-### 🌐 Connect with Me
+### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/hilaldavas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="https://instagram.com/hilalldavas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=swift,firebase,react,reactnative,nodejs,typescript,mongodb,mysql,python,figma,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects  
+| Project | Description | Stack |
+|----------|--------------|--------|
+| **Bingo** | iOS social media app powered by Firebase Authentication | Swift, Firebase |
+| **HopeLine** | Cancer patient symptom tracker & monitor | React Native, Node.js, MongoDB |
+| **MoodMate** | Emotion-driven multimedia content recommender | React, Python, AI |
+
+---
+
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalldavas&theme=radical" alt="hilalldavas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hilalldavas&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
 </p>
 
-<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalldavas&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalldavas&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ---
 
-### 🌟 Interests & Learning
-- 📚 Currently learning: AI & ML, Advanced SwiftUI & Combine, Next.js  
-- 💡 Passionate about emotional well-being and human-centered design  
+### 🌱 Currently Exploring  
+- 🧠 AI & Machine Learning  
+- 🍏 Advanced SwiftUI & Combine  
+- ☁️ Backend integration with Firebase & Node.js  
+- 🎨 Design systems & user experience principles  
 
-> ✨ *Always exploring, building, and learning…*
+---
+
+### ✨ Quote I Live By  
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
