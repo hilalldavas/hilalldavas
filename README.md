@@ -1,6 +1,6 @@
-<!-- Typing header -->
+<!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=32&duration=2500&pause=700&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Hilal+Davas;Software+Engineer;Building+meaningful+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=36&duration=2500&pause=800&color=3F72AF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Hilal+Davas;Software+Engineer;Creative+Thinker+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hilalldavas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hilalldavas&label=Profile%20Views&color=3F72AF&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -17,26 +17,26 @@
 Hi, I'm Hilal! I’m passionate about designing and developing technology that connects people, simplifies life, and brings a touch of empathy into the digital world.  
 
 - 🚀 Currently developing **Bingo** — A Swift-based iOS social media app using Firebase Authentication  
-- 💊 Created **HopeLine** — A mobile app for cancer patient monitoring and symptom tracking  
-- 😊 Built **MoodMate** — Emotion-driven multimedia content recommender  
+- 💊 Built **HopeLine** — A mobile app for cancer patient monitoring and symptom tracking  
+- 😊 Created **MoodMate** — Emotion-driven multimedia content recommender  
 
-📫 You can reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**  
+📫 Reach me at **[hilalldavas@gmail.com](mailto:hilalldavas@gmail.com)**  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/hilaldavas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48"/>
   </a>
   <a href="https://instagram.com/hilalldavas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,firebase,react,reactnative,nodejs,typescript,mongodb,mysql,python,figma,git" />
 </p>
@@ -52,24 +52,24 @@ Hi, I'm Hilal! I’m passionate about designing and developing technology that c
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilalldavas&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hilalldavas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalldavas&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalldavas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 ---
 
 ### 🌱 Currently Exploring  
-- 🧠 AI & Machine Learning  
-- 🍏 Advanced SwiftUI & Combine  
-- ☁️ Backend integration with Firebase & Node.js  
-- 🎨 Design systems & user experience principles  
+- 🧠 Machine Learning & AI Integration  
+- 🍏 Advanced SwiftUI Animations  
+- ☁️ Cloud backend with Firebase & Node.js  
+- 🎨 Human-centered design systems  
 
 ---
 
 ### ✨ Quote I Live By  
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
+> *“Simplicity is the ultimate sophistication.”* — Leonardo da Vinci  
